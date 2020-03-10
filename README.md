@@ -11,4 +11,4 @@ The project includes the following issues:
   - Adding Roles/Users (Login+Password)
   - Assigning permissions to users
   - Adding linked server // second local instance of sql server
-  - Creating procedures that collect or sum data from 2 databases
+  - Creating procedures that select/sum data from 2 databases
